@@ -1,6 +1,6 @@
 ## Contents 
 
- - [Cross Site Scripting (XSS)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#cross-site-scripting-xss)
+ - [Cross-Site Scripting (XSS)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#cross-site-scripting-xss)
  - [Cross Site Request Forgery (CSRF)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#cross-site-request-forgery-csrf)
  - [Clickjacking (UI Redressing Attack)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#clickjacking-ui-redressing-attack)
  - [Local File Inclusion (LFI)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#local-file-inclusion-lfi)
